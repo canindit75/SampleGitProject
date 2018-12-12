@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="82591" started-at="2018-12-12T17:10:06Z" finished-at="2018-12-12T17:11:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="82591" started-at="2018-12-12T17:10:06Z" finished-at="2018-12-12T17:11:29Z">
+      <class name="com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig">
+        <test-method status="PASS" signature="Initialize()[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="Initialize" is-config="true" duration-ms="5103" started-at="2018-12-12T17:10:07Z" finished-at="2018-12-12T17:10:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method status="PASS" signature="CalorieCalcTestCaseMethod(java.util.Hashtable)[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="CalorieCalcTestCaseMethod" duration-ms="7010" started-at="2018-12-12T17:10:12Z" data-provider="getCalorieDetails" finished-at="2018-12-12T17:10:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{heightinch=5, age=45, heightfeet=5, sex=f, weight=200}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalorieCalcTestCaseMethod -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="CloseBrowser" is-config="true" duration-ms="2954" started-at="2018-12-12T17:10:19Z" finished-at="2018-12-12T17:10:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="Initialize()[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="Initialize" is-config="true" duration-ms="3634" started-at="2018-12-12T17:10:22Z" finished-at="2018-12-12T17:10:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method status="PASS" signature="CalorieCalcTestCaseMethod(java.util.Hashtable)[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="CalorieCalcTestCaseMethod" duration-ms="6585" started-at="2018-12-12T17:10:26Z" data-provider="getCalorieDetails" finished-at="2018-12-12T17:10:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{heightinch=4, age=56, heightfeet=3, sex=m, weight=300}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalorieCalcTestCaseMethod -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="CloseBrowser" is-config="true" duration-ms="2836" started-at="2018-12-12T17:10:32Z" finished-at="2018-12-12T17:10:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="Initialize()[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="Initialize" is-config="true" duration-ms="3798" started-at="2018-12-12T17:10:35Z" finished-at="2018-12-12T17:10:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method status="PASS" signature="CalorieCalcTestCaseMethod(java.util.Hashtable)[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="CalorieCalcTestCaseMethod" duration-ms="6284" started-at="2018-12-12T17:10:39Z" data-provider="getCalorieDetails" finished-at="2018-12-12T17:10:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{heightinch=6, age=35, heightfeet=1, sex=m, weight=150}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalorieCalcTestCaseMethod -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="CloseBrowser" is-config="true" duration-ms="2892" started-at="2018-12-12T17:10:45Z" finished-at="2018-12-12T17:10:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="Initialize()[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="Initialize" is-config="true" duration-ms="3578" started-at="2018-12-12T17:10:48Z" finished-at="2018-12-12T17:10:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method status="PASS" signature="CalorieCalcTestCaseMethod(java.util.Hashtable)[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="CalorieCalcTestCaseMethod" duration-ms="6501" started-at="2018-12-12T17:10:52Z" data-provider="getCalorieDetails" finished-at="2018-12-12T17:10:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{heightinch=7, age=26, heightfeet=1, sex=f, weight=180}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalorieCalcTestCaseMethod -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="CloseBrowser" is-config="true" duration-ms="1121" started-at="2018-12-12T17:10:58Z" finished-at="2018-12-12T17:10:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="Initialize()[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="Initialize" is-config="true" duration-ms="4872" started-at="2018-12-12T17:10:59Z" finished-at="2018-12-12T17:11:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method status="PASS" signature="CalorieCalcTestCaseMethod(java.util.Hashtable)[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="CalorieCalcTestCaseMethod" duration-ms="7296" started-at="2018-12-12T17:11:04Z" data-provider="getCalorieDetails" finished-at="2018-12-12T17:11:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{heightinch=6, age=80, heightfeet=5, sex=m, weight=400}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalorieCalcTestCaseMethod -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="CloseBrowser" is-config="true" duration-ms="2862" started-at="2018-12-12T17:11:11Z" finished-at="2018-12-12T17:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="Initialize()[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="Initialize" is-config="true" duration-ms="4340" started-at="2018-12-12T17:11:14Z" finished-at="2018-12-12T17:11:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="Login" duration-ms="15" started-at="2018-12-12T17:11:19Z" data-provider="login" finished-at="2018-12-12T17:11:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="CloseBrowser" is-config="true" duration-ms="1918" started-at="2018-12-12T17:11:19Z" finished-at="2018-12-12T17:11:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="Initialize()[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="Initialize" is-config="true" duration-ms="5205" started-at="2018-12-12T17:11:21Z" finished-at="2018-12-12T17:11:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="Login" duration-ms="1" started-at="2018-12-12T17:11:26Z" data-provider="login" finished-at="2018-12-12T17:11:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig@59fa1d9b]" name="CloseBrowser" is-config="true" duration-ms="3036" started-at="2018-12-12T17:11:26Z" finished-at="2018-12-12T17:11:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.caloriecalc.testcases.CalorieCalcPageExcelTestCaseConfig -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

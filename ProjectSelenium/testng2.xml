@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="Suite1" verbose="1" >
+  <test name="TestPack1" >
+    <classes>
+       <class name="testngPack.TestNGExample" />
+       <class name="testngPack.CalorieCalcTest2"/>
+    </classes>
+  </test>
+ 
+  <test name="TestPack2">
+    <classes>
+      <class name="testngPack.TestNGExample2"/>
+    </classes>
+  </test>
+</suite>
